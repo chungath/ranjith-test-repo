@@ -1,1 +1,2 @@
-# ranjith-test-repo
+# Running the app
+node index.js
